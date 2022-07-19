@@ -6,6 +6,7 @@ I don't have a job yet, in the sense of getting some sort of income, but I contr
 
 Technologies I work with:
 
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40">
@@ -23,6 +24,8 @@ Technologies I work with:
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" width="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40">
+</div>
+
 
 I'm available for junior/trainee positions, if you're interested on my profile you can contact me through my email.
 
