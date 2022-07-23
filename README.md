@@ -54,5 +54,3 @@ I don't have a job yet, in the sense of getting some sort of income, but I contr
 <br>
 
 I'm available for junior/trainee positions, if you're interested on my profile you can contact me through my email.
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wichosu)](https://git.io/streak-stats)
