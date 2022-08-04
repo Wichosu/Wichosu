@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Luis Eduardo Calderón Miranda also known as **_Wicho_**. I'm a developer and currently studying web technologies.
+I'm Luis Eduardo Calderón Miranda also known as **_Wicho_**. I'm a web developer who specializes on the Frontend.
 
 ## Technologies I work with:
 
