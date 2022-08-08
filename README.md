@@ -5,19 +5,6 @@ I'm Luis Eduardo Calderón Miranda also known as **_Wicho_**. I'm a web develope
 ## Technologies I work with:
 
 <div>
-  <li><b>Text editors:</b></li>
-  <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" width="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40">
-</div>
-
-<div>
-  <li><b>Game development:</b></li> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40">
-</div>
-
-<div>
   <li><b>Frontend development:</b></li>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40">
@@ -48,7 +35,11 @@ I'm Luis Eduardo Calderón Miranda also known as **_Wicho_**. I'm a web develope
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" width="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" width="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" width="40">
 </div>
 <br>
 
-I'm available for junior/trainee positions, if you're interested on my profile you can contact me through my email.
+You can contact me through my email luiscalderonmiranda@gmail.com
