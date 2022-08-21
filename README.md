@@ -17,6 +17,7 @@ I'm Luis Eduardo Calderón Miranda also known as **_Wicho_**. I'm a web develope
   <li><b>Backend development:</b></li>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" width="40">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="40">
 </div>
 
 <div>
