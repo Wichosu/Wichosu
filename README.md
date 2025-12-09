@@ -1,18 +1,19 @@
-# Hello There
+# About me
 
-I'm Luis Eduardo Calderón Miranda also known as **_Wicho_** or **_Wichosu_**. I'm a junior software developer. I've got a few experiences with different languages and tech stacks like Laravel, .NET (ASP.NET CORE), and vanilla PHP but right now I'm staying on the JS side, I work primarily with Next.js (mainly frontend not so much as a fullstack, I'm in a dilema whether to try the fullstack route with Next.js or use Nest.js for my backend and combine both). My LinkedIn profile: https://www.linkedin.com/in/luis-wicho-miranda/ (I post rarely and use spanish as my main language there since most of my contacts are spanish speakers, sometimes I translate my posts but not often).
+I'm Luis Eduardo Calderón Miranda also known as **_Wicho_** or **_Wichosu_**. I'm a software developer.
 
-My biggest motivation right now is to build websites based on personal ideas, in other words I want to build things for fun, sites that will offer something based on an idea that I had. I started with www.baulchino.com in early 2025 and hope to build more sites. Here's a list (that hopefully will grow in the near future) of my sites and how they do:
+I have experience with different languages and tech stacks like:
+- Laravel
+- .NET (ASP.NET CORE)
+- Vanilla PHP
+- JavaScript
+- TypeScript
+- Next.js
 
-## Baúl Chino (www.baulchino.com)
-<img width="1668" height="989" alt="image" src="https://github.com/user-attachments/assets/75f90b13-04fc-484c-8923-08dae18f8567" />
+My LinkedIn profile: https://www.linkedin.com/in/luis-wicho-miranda/
 
-<img width="1245" height="629" alt="image" src="https://github.com/user-attachments/assets/8f72f0b3-a567-444d-8f00-dfb4f0542ea8" />
+My biggest motivation right now is to build projects based on personal ideas, in other words I want to build things for fun, sites that will offer something based on an idea that I had. I started with www.baulchino.com in early 2025 and hope to build more sites. Here's a list (that hopefully will grow in the near future) of my sites and how they do:
 
-### Whats this about?
-In mid 2023 I began studying Mandarin Chinese all the way till Late 2024, It was not a hardcore study o anything intense my classes were pretty chill but I did learn a few things from Chinese Culture and learned some words and phrases (My level should be ~HSK2, basic level). This website has the purpose of collecting a variety of tools and resources that I found helpful during my time studying the language, some of the features are books, show me how to write x character (write hanzi page), downloadable writing sheets, list of YouTube channels that focused on Mandarin Chinese, a collection of anki decks that I made, and a writing sheet generator.
-
-### How was it made?
-Most of it is Next.js, the tool I'm most comfortable with the most and I considered it a valid choice because it has a lot to offer out of the box and lets me focused more on developing my features without spending much time with optimization. It's deploy on Vercel for similar reasons. It counts with a connection to a database via Supabase, in the database I store the data of the Youtube channels to be fetched in the YouTube Channels module and I use the file storage feature from Supabase to store some files like the template sheets, Supabase was chosen for simplicity an testing it out, It's great but I'm not sure if I'll use it in my next projects for price reasons, I don't make any profit yet out of this so maybe I'll hop to railway and make my own database (postgre or mysql) and backend with Nest.js to get a cheaper price.
-
-For analytics I use vercel analytics and posthog, why?, I have never used any of them before and wanted to test both, both are great but I prefer posthog a little bit more since it's more detail. The styles of my website are made with tailwind and some are shadcn components but I'll eventually replace shadcn with just radix primitives and make my components more custom. Before tailwind and shadcn I used styled components and make everything from scratch it gave a little bit of a unique look to the site but was unpolished in some aspects (accesibility issues) for that reason I decided to migrate to shadcn but it kind of killed the uniqueness and style that site had so after doing some more study and taking advice from the Joy of React course I'm decided to remove shadcn and just use radix to help me with the accesibility part, with the goal of bringing my own styles and develop my own design/style intuition for future projects as well as polish my skills doing many types of components.
+- baulchino (www.baulchino.com)
+  - A website to help people learn Chinese Mandarin offering popular resourses and tools. Currently around 15k+ visits per month. Soon I'll publish public analytics.
+  - Check the repo baulchino for more information or just contact me via LinkedIn.
